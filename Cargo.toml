@@ -1,7 +1,10 @@
 [package]
 name = "monitor_sleep_toggle"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+description = "Small tool to toggle between fast monitor sleep (1 Minute) and no monitor sleep."
+license-file = "LICENSE"
+repository = "https://github.com/hardliner66/monitor_sleep_toggle"
 
 [dependencies]
 anyhow = "1.0.97"

@@ -1249,7 +1249,7 @@ dependencies = [
 
 [[package]]
 name = "monitor_sleep_toggle"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "anyhow",
  "image",
