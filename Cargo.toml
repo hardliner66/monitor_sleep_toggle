@@ -1,0 +1,10 @@
+[package]
+name = "monitor_sleep_toggle"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.97"
+image = "0.25.5"
+tao = "0.32.8"
+tray-icon = "0.20.0"
