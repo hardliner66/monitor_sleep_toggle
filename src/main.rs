@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use tao::{
     event::Event,
     event_loop::{ControlFlow, EventLoopBuilder},
